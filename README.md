@@ -131,7 +131,7 @@ Antônio William
 
 GitHub: antoniowilliamg
 
-LinkedIn: [Seu Perfil](https://www.linkedin.com/in/antonio-william/)
+LinkedIn: [Antonio William](https://www.linkedin.com/in/antonio-william/)
 
 📜 Licença
 Este projeto está licenciado sob a Licença MIT. Sinta-se livre para usá-lo e modificá-lo conforme necessário.
